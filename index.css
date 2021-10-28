@@ -1,0 +1,243 @@
+body{
+    background-color: rgb(3, 24, 63);
+}
+#cabecalho{
+    width: 100%;
+    height: 120px;
+ 
+}
+#topo{
+    width: 1200px;
+    height: 125px;
+    margin: auto;
+    
+    background-color: rgba(243, 221, 20, 0.959)
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+   
+    display: inline-block;
+}
+
+#hi{
+    display: inline-block;
+    width: 250px;
+    height: 100px;
+  
+    background-image: url(img/historia.png);
+    
+}
+
+#brasil{
+    width: 340px;
+    height: 100px;
+    
+    display: inline-block;
+ background-image: url(img/brasil.png);
+   margin-left: 20px;
+}
+#usuario{
+    width: 40px;
+    height: 40px;
+    
+    display: inline-block;
+    margin-left: 230px;
+ margin-top:  20px;
+}
+#cadastro{
+    width:200px;
+    height:30px;
+    
+    display: inline-block; 
+    float: right; 
+    margin-top: 60px;
+}
+nav{
+    width: 100%;
+    height: 38px;
+    
+    
+}
+#menu{
+    width: 1200px;
+    height: 38px;
+    
+    margin: auto;
+    
+}
+.cadastrar{
+    font-family: "calibri";
+    font-size: 17px;
+    color: rgb(0, 65, 14);
+    text-decoration: none;
+}
+main{
+    width: 1200px;
+    height: 2500px;
+    background-color: rgb(3, 24, 63);
+    margin: auto;
+}
+:root{
+    --cor-fundo : rgb(37, 73, 36);
+    --cor-hover : rgb(4, 36, 16);
+    --cor-primaria : rgb(240, 216, 6);
+}
+
+.drop ul{
+    list-style-type: none;
+    padding: 0;
+
+}
+.drop ul{
+   background-color: var(--cor-fundo);
+    
+}  
+ .drop ul li{
+    display: inline;
+    position: relative;  
+}
+.drop ul li a{
+    
+    color: var(--cor-primaria);
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+
+}
+.drop ul li a:hover{
+    background-color: var(--cor-hover);  
+}
+.drop ul ul {
+    display:none; 
+    position: absolute;  
+}
+.drop ul li:hover ul{
+    display:block; 
+ 
+}
+
+#sec1{
+  width: 670px;
+  height: 300px;
+  padding: 5px;
+ 
+}
+
+#imagem{
+   
+    width: 280px;
+    height: 300px;
+   
+margin-top: 200px;
+display: inline-block;
+}
+#dompedro{
+    width: 280px;
+    height: 300px;
+   
+margin-top: 200px; 
+display: inline-block; 
+
+
+}
+#leo{
+    width: 300px;
+    height: 300px;
+   
+margin-top: 200px; 
+display: inline-block;
+}
+#dompedro2{
+    width: 290px;
+    height: 300px;
+   
+    margin-top: 200px;
+display: inline-block;
+ 
+} 
+#domjoao{
+   
+    width: 280px;
+    height: 300px;
+   
+margin-top: 200px;
+display: inline-block;
+} 
+#machado{
+    width: 280px;
+    height: 300px;
+   
+margin-top: 200px; 
+display: inline-block; 
+}
+
+#carlos{
+    width: 300px;
+    height: 300px;
+   
+margin-top: 200px; 
+display: inline-block;  
+}
+
+#nabuco{
+    width: 290px;
+    height: 300px;
+   
+    margin-top: 200px;
+display: inline-block;
+ 
+}
+#texto1{
+    width: 450px;
+   
+    
+   
+    margin-right: 340px;
+}
+.text1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color:#2e7531;
+    padding: 5px;
+   
+}
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #2e7531;
+    
+}
+.patria{
+    font-family: "calibri";
+    font-size: 19px;
+    color: #c6d3c7;
+    text-decoration: none;
+     
+}
+.inde{
+    font-family: "calibri";
+    font-size: 15px;
+    color: #c6d3c7;
+    width: 200px;
+    height: 30px;
+}
+#foto{
+    width: 900px;
+    height: 316px;
+    background-image: url(img/viva-removebg-preview.png);
+    margin-top: 250px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #2e7531;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #2e7531;  
+}
+
+
